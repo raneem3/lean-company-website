@@ -10,10 +10,12 @@ marketing company website
   - [Author](#author)
 
 ### Screenshot
-### Screenshot for Desktop
-![Home image](https://github.com/raneem3/Desinger-portofilo-Template/blob/main/portofilo%20image/home.png)
-![About image](https://github.com/raneem3/Desinger-portofilo-Template/blob/main/portofilo%20image/about.png)
-![contact image](https://github.com/raneem3/Desinger-portofilo-Template/blob/main/portofilo%20image/contact.png)
+![Home image](https://github.com/raneem3/lean-company-website/blob/master/image/home.png)
+![portfolio image](https://github.com/raneem3/lean-company-website/blob/master/image/portfolio.png)
+![services image](https://github.com/raneem3/lean-company-website/blob/master/image/services.png)
+![career image](https://github.com/raneem3/lean-company-website/blob/master/image/career.png)
+![contact image](https://github.com/raneem3/lean-company-website/blob/master/image/contact.png)
+
 
 
 ### Built with
