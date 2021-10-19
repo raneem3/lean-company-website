@@ -10,11 +10,11 @@ marketing company website
   - [Author](#author)
 
 ### Screenshot
-![Home image](https://github.com/raneem3/lean-company-website/blob/master/image/home.png)
-![portfolio image](https://github.com/raneem3/lean-company-website/blob/master/image/portfolio.png)
-![services image](https://github.com/raneem3/lean-company-website/blob/master/image/services.png)
-![career image](https://github.com/raneem3/lean-company-website/blob/master/image/career.png)
-![contact image](https://github.com/raneem3/lean-company-website/blob/master/image/contact.png)
+![Home image](https://github.com/raneem3/images/blob/main/lean-company-website/home.png)
+![portfolio image](https://github.com/raneem3/images/blob/main/lean-company-website/portfolio.png)
+![services image](https://github.com/raneem3/images/blob/main/lean-company-website/services.png)
+![career image](https://github.com/raneem3/images/blob/main/lean-company-website/career.png)
+![contact image](https://github.com/raneem3/images/blob/main/lean-company-website/contact.png)
 
 
 
