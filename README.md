@@ -5,21 +5,17 @@ marketing company website
 ## Table of contents
 
   - [Screenshot](#screenshot)
-  - [Links](#links)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
   - [Author](#author)
 
 ### Screenshot
-![Home image](https://github.com/raneem3/images/blob/main/lean-company-website/home.png)
-![portfolio image](https://github.com/raneem3/images/blob/main/lean-company-website/portfolio.png)
-![services image](https://github.com/raneem3/images/blob/main/lean-company-website/services.png)
-![career image](https://github.com/raneem3/images/blob/main/lean-company-website/career.png)
-![contact image](https://github.com/raneem3/images/blob/main/lean-company-website/contact.png)
+![Home image](/home.png)
+![portfolio image](/portfolio.png)
+![services image](/services.png)
+![career image](/career.png)
+![contact image](/contact.png)
 
-
-### Links
-- Live Site URL: [leanmarketing](https://leanmarketing.netlify.app/)
 
 ### Built with
 
