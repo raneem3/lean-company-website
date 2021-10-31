@@ -10,11 +10,11 @@ marketing company website
   - [Author](#author)
 
 ### Screenshot
-![Home image](/home.png)
-![portfolio image](/portfolio.png)
-![services image](/services.png)
-![career image](/career.png)
-![contact image](/contact.png)
+![Home image](/screenshot/home.png)
+![portfolio image](/screenshot/portfolio.png)
+![services image](/screenshot/services.png)
+![career image](/screenshot/career.png)
+![contact image](/screenshot/contact.png)
 
 
 ### Built with
